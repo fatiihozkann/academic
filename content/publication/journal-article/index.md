@@ -20,11 +20,10 @@ publication_types:
 - "2"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 tags:
 - Source Themes
-title:
+title: Opinions of Teachers on “This is my work” Project Competetion
 url_code: https://github.com/fatiihozkann/academic
 url_dataset: ""
 url_pdf: https://www.researchgate.net/publication/284732018_Opinions_of_Teachers_on_This_Is_My_Work_Project_Competition
