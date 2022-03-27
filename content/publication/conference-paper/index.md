@@ -20,13 +20,11 @@ publication_short: In *STC*
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: 
 tags:
 - Source Themes
 title: The Necessity of Differentiation in Science Education for Gifted and Talented Students
 url_code: https://github.com/fatiihozkann/academic
-url_dataset: '#'
 url_pdf: https://d1wqtxts1xzle7.cloudfront.net/40434342/Ozkan__Oner-Armagan__Bektas__Saylan-with-cover-page-v2.pdf?Expires=1648404643&Signature=TQJcpnyLKKxgI9~-FN3SRWI3GUsFRP4BLdpLxH6SuR5Pcl5Wndq73uJ3LUl0ifkJJJRYM-XsZqhGFhQ9XZS4JZS07RhBrvUXpHEPaiRoemhQReU6yW6klztIPC2nTM7MTQQvolWSOAzIc8cFY2Eq31dS5kWxOFPhj2EygZbuo0~H0svaFURH0bE4QUUYHVafwcOQl4uD0aI6iAggVo7DvUBx-nhNEgBSWz-Dpj694g5ydDBxsTdQBRgkEXfOlnqUqnJD3MZbbCLqM316VpabcI9FrJVGly26oWYxmCH2QbLt7WLgjZrowRamlq3ci~UqjQmk-fi9YNMXFKwQv0yKUg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
 
 ---
