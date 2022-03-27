@@ -51,5 +51,5 @@ bio: My research interests include gifted education, creativity, and talent deve
 
 Fatih Ozkan is a PhD student in Educational Psychology specializing in gifted education.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
