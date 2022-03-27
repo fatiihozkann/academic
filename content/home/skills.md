@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 90%
-  icon: camera-retro
+  icon: computer
   icon_pack: fas
   name: SAS
 
