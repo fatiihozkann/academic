@@ -8,7 +8,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/fatiih_ozkann
+  url: https://www.baylor.edu/soe/giftededucation/
 slides: example
 summary: An example of using the in-built project page.
 tags:
