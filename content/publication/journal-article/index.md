@@ -27,7 +27,7 @@ tags:
 title:
 url_code: https://github.com/fatiihozkann/academic
 url_dataset: ""
-url_pdf: 
+url_pdf: https://www.researchgate.net/publication/284732018_Opinions_of_Teachers_on_This_Is_My_Work_Project_Competition
 
 ---
 
