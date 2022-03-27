@@ -26,12 +26,12 @@ address: Marrs McLean Science Building #312
   street: 
   city: Waco
   region: TX
-  postcode: ''
+  postcode:
   country: United States
   country_code: US
 coordinates:
-  latitude: ''
-  longitude: ''
+  latitude: 
+  longitude:
 directions: 
 office_hours:
   - 'Monday 10:00 to 13:00'
