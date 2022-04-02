@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 90%
-  icon: toolbox
+  icon: desktop_computer
   icon_pack: fas
   name: SAS
 
