@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: 90%
   icon: chart-line
-  icon_pack: fas
+  icon_pack: laptop-code
   name: SAS
 
 # Uncomment to use emoji icons.
