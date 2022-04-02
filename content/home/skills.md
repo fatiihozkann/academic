@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 90%
-  icon: computer
+  icon: chart-line
   icon_pack: fas
   name: SAS
 
