@@ -25,8 +25,8 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 90%
-  icon: chart-line
-  icon_pack: archive
+  icon: toolbox
+  icon_pack: fas
   name: SAS
 
 # Uncomment to use emoji icons.
