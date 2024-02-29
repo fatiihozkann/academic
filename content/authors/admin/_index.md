@@ -17,9 +17,9 @@ education:
 email: fatih_ozkan1@baylor.edu
 highlight_name: yes
 interests:
-- Gifted Education
-- Creativity
-- Talent Development
+- Item Response Theory
+- LPA/LCA
+- Psychometrics
 - Structural Equation Modeling
 - Multilevel Modeling
 organizations:
