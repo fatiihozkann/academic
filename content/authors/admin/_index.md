@@ -46,10 +46,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/fatih-ozkan-a5b602158
 superuser: yes
-bio: My research interests include gifted education, creativity, and talent development.
+bio: My research interests are measurement and evaluation.
 ---
 
-Fatih Ozkan is a PhD student in Educational Psychology specializing in gifted education.
+Fatih Ozkan is a PhD student in Educational Psychology specializing in quantitative methods.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
