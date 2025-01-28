@@ -1,5 +1,5 @@
 ---
-abstract: This study investigated the opinions of teachers participated in ‘This Is My Work’ project competition on the   applicability of the competition, the difficulties they faced and its contributions to science education. In this      study, phenomenology which is one of the qualitative research methods was employed. Data was collected with four       science teachers in 2014-2015 academic year in Kayseri. Semi-structured interview was used as a data collection tool.   Interview form was formed and was controlled by three science education experts. Data analysis was conducted through   descriptive analysis. Based on findings, the participants encountered difficulties in respect to time, cost and place   during project preparation process. In conclusion, the project competition positively affected the students’           achievement. Nonetheless, the participants stated that project assessments should be fair, project preparation period   should last longer, and should reach the large masses. As a suggestion, it is believed that clearly notifying          students and teachers of project assessment project and selecting the assessment jury among stakeholders (teachers,    students, managers, parents, etc.) is important.
+abstract:
 author_notes:
 - Equal contribution
 - Equal contribution
